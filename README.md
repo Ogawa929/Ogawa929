@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Ogawa929/Ogawa929** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Programming
+<img src="https://skillicons.dev/icons?i=java,spring,bash,cs,js,vue,bootstrap" />
 
-Here are some ideas to get you started:
+### DB
+<img src="https://skillicons.dev/icons?i=mysql" /> 　**oracle DB**　**SQLServer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tool
+<img src="https://skillicons.dev/icons?i=gradle,docker,git,github,githubactions,gitlab,vscode" />
+
+### TRAINING
+<img src="https://skillicons.dev/icons?i=react,next,typescript,aws" />
