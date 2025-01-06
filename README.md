@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ### Programming
-<img src="https://skillicons.dev/icons?i=java,spring,bash,cs,js,vue,bootstrap" />
+<img src="https://skillicons.dev/icons?i=java,spring,bash,js,vue,bootstrap" />
 
 ### DB
 <img src="https://skillicons.dev/icons?i=mysql" /> 　**oracle DB**　**SQLServer**
